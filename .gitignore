@@ -1,0 +1,18 @@
+# Temporary / large local data
+*.asv
+*.slxc
+slprj/
+*.mexa64
+*.mexw64
+*.ulg
+*.bin
+*.bag
+*.mp4
+*.mov
+*.avi
+*.pt
+*.onnx
+*.engine
+*.zip
+.DS_Store
+__pycache__/
